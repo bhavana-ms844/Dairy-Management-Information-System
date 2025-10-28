@@ -3,13 +3,13 @@ The Dairy Management Information System (DMIS) is developed to simplify dairy op
 The goal is to replace manual record-keeping with an automated system that is accurate, fast, and user-friendly.
 
 🚀 Features
-✅ Add, update, and delete products and companies
-✅ Generate and manage invoices
-✅ View and filter sales reports by date
-✅ Secure database using encryption techniques
-✅ Manage stock levels and pricing dynamically
-✅ User authentication (Admin access)
-✅ Responsive and clean web interface
+* Add, update, and delete products and companies
+* Generate and manage invoices
+* View and filter sales reports by date
+* Secure database using encryption techniques
+* Manage stock levels and pricing dynamically
+* User authentication (Admin access)
+* Responsive and clean web interface
 
 Tech Stack
 | Technology   | Description                         |
