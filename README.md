@@ -24,11 +24,11 @@ Run the application
 http://localhost/Dairy-Management-System
 
 Usage
-Admin Login: Access the dashboard and manage all modules
-Add Products: Enter product details, quantity, and pricing
-Generate Invoice: Create invoices and calculate totals automatically
-View Reports: Analyze daily/monthly sales performance
-Secure Data: Sensitive data stored in encrypted form
+* Admin Login: Access the dashboard and manage all modules
+* Add Products: Enter product details, quantity, and pricing
+* Generate Invoice: Create invoices and calculate totals automatically
+* View Reports: Analyze daily/monthly sales performance
+* Secure Data: Sensitive data stored in encrypted form
 
 
 
