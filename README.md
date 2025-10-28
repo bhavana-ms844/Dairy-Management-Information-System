@@ -30,7 +30,19 @@ Usage
 * View Reports: Analyze daily/monthly sales performance
 * Secure Data: Sensitive data stored in encrypted form
 
+Screenshots:
+
 ![Screenshot1](https://github.com/user-attachments/assets/17658a40-8e80-443e-8705-f7417447c293)
+
+![Screenshot2](https://github.com/user-attachments/assets/10c606be-0275-4792-b893-851519da3004)
+
+![Screenshot3](https://github.com/user-attachments/assets/2fd2487c-dd7f-4aef-a61a-60bc9d2bb122)
+
+![Screenshot4](https://github.com/user-attachments/assets/aa38356c-8677-4495-b81a-bf376e79e5c9)
+
+
+
+
 
 
 
